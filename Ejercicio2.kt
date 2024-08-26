@@ -1,3 +1,11 @@
+/* Escriba un programa que realice el juego de piedra, papel o tijera. La computadora debe elegir 
+   de manera aleatoria la opción a elegir. Después debe preguntar al usuario que opción quiere. 
+   Imprimir si ganó, perdió o empató.
+   
+Autor: Arnold Daniel Saya Ramos
+Fecha inicio 25/08/2024
+Fecha ulitma modificaciones 25/08/2024
+*/
 import kotlin.random.Random
 
 fun main() {
