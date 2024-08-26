@@ -1,3 +1,10 @@
+/*  Crea un programa que genere un número aleatorio entre 1 y 30 y pida al usuario adivinarlo, dando pistas si el número es mayor o menor, hasta que lo adivine.
+
+Autor: Arnold Daniel Saya Ramos
+Fecha inicio 25/08/2024
+Fecha ulitma modificaciones 25/08/2024
+*/
+
 import kotlin.random.Random
 
 fun main() {
