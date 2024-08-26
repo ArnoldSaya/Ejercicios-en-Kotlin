@@ -1,3 +1,11 @@
+/* Escribe un programa que lea la puntuación y el salario mensual de un empleado, determine su nivel de rendimiento 
+   basado en la puntuación (de 0 a 10), y calcule la cantidad de dinero que recibirá según ese nivel. Luego, imprime 
+   el nivel de rendimiento y el dinero correspondiente.
+   
+Autor: Arnold Daniel Saya Ramos
+Fecha inicio 25/08/2024
+Fecha ulitma modificaciones 25/08/2024
+*/
 fun main() {
     // Solicita al usuario que ingrese su salario mensual
     print("Ingrese su salario mensual: ")
