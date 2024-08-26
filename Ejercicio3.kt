@@ -1,3 +1,11 @@
+/* Realizar una calculadora  básica suma, resta, multiplicación, división. Debe imprimir un menú con las opciones 
+   incluyendo una opción salir. Validar que la opción esté disponible. Imprimir resultados.
+   
+Autor: Arnold Daniel Saya Ramos
+Fecha inicio 25/08/2024
+Fecha ulitma modificaciones 25/08/2024
+*/
+
 fun main() {
     var opcion: Int  // Variable para almacenar la opción seleccionada por el usuario
 
