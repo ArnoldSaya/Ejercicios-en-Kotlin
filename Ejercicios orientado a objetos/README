@@ -1,1 +1,5 @@
-
+Práctica 2: Programación Orientada a Objetos en Kotlin - Este repositorio contiene soluciones a ejercicios de POO en Kotlin:
+1. Cuenta Bancaria: Modela una cuenta con saldo y límite de retiro.
+2. Producto: Modela un producto con precio y descuento.
+3. Figuras: Incluye una clase abstracta Shape con subclases Cuadrado, Circulo, y Rectangulo para calcular área y perímetro.
+4. Gestión de Biblioteca: Sistema con clases Libro, Revista, Usuario, y Biblioteca para manejar préstamos y devoluciones. - Autor: Arnold.
